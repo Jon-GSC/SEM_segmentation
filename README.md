@@ -21,4 +21,4 @@ Scanning Electron Microscope (SEM) image segmentation
 * Feel free to email zhuoheng.chen@canada.ca for any pertinent questions/suggestions regarding the code and datesets.
 
 ### Acknowledgments
-* github, kaggle, csdn blog, etc.
+* github, google, kaggle, csdn blog, etc.

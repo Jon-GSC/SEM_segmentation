@@ -8,7 +8,7 @@ Scanning Electron Microscope (SEM) image segmentation
 
 ### Dataset: 
 
-* Because of data confidentiality, the full dataset are not provide herein, but I provide 1000 images with size 256x256 pixels in the folder for test and play with the code.
+* Because size of dataset is too large (about 500M), the full dataset are not provide herein, you can contact following contact for dataset.
 
 
 ### Hardware used: 

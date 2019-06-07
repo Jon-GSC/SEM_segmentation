@@ -8,7 +8,7 @@ Scanning Electron Microscope (SEM) image segmentation
 
 ### Dataset: 
 
-* Because size of dataset is too large (about 500M), the full dataset are not provide herein, you can send email to following contact for dataset.
+* The original image is out allowed size limit. The loaded images are used for demonstration purpose.
 
 
 ### Hardware used: 
@@ -18,7 +18,7 @@ Scanning Electron Microscope (SEM) image segmentation
 
 ### Contact: 
 
-* Feel free to email zhuoheng.chen@canada.ca for any pertinent questions/suggestions regarding the code and datesets.
+* jon.liu@canada.ca
 
 ### Acknowledgments
-* github, google, kaggle, csdn blog, etc.
+* SEM image segmentation used open source codes and library from github, google, kaggle, csdn blog, and others.

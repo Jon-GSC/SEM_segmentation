@@ -12,16 +12,15 @@ The aim of this SEM image segmentation study is to identify and analyse geologic
 ### Dataset: 
 
 * The original image is out allowed size limit. The loaded images are used for demonstration purpose, the default image size is 256x256. During the trainint, the images in train and mask folder are split into training and validation groups. The file structure is:
-'''
-       img_path
-       |---train_image
-       |   |---*.tif
-       |---mask_image
-       |   |---*.tif
-       |---raw_image
-       |   |---output
-       |       |---*.tif
-'''
+
+>       img_path
+>       |---train_image
+>       |   |---*.tif
+>       |---mask_image
+>       |   |---*.tif
+>       |---raw_image
+>       |   |---output
+>       |       |---*.tif
 
 
 ### Instruction:

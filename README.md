@@ -1,15 +1,17 @@
 # SEM images segmentation with Tensorflow
-Scanning Electron Microscope (SEM) image segmentation 
+Scanning Electron Microscope (SEM) image segmentation.
+The aim of this SEM image segmentation study is to identify and analysis of geological objects using deep learning.    
 
-### Setup: 
+### Requirements: 
 
-* Install anaconda; conda install keras.
+* Install anaconda; conda install keras, tensorflow, scikit-image, opencv, tqdm, pandas, numpy, seaborn, etc libraries.
 
 
 ### Dataset: 
 
 * The original image is out allowed size limit. The loaded images are used for demonstration purpose.
 
+### 
 
 ### Hardware used: 
 

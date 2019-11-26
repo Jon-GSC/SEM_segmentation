@@ -27,9 +27,9 @@ Scanning Electron Microscope (SEM) image segmentation.
 
    1. The two main python codes and /itools need be save in one folder.
 
-   2. >forWeb_SEM_Model_1.py are used to train the model, the model is saved automatically after validation. Some parameters at the beginning of code are default, user can change it as wish.
+   2. _forWeb_SEM_Model_1.py_ are used to train the model, the model is saved automatically after validation. Some parameters at the beginning of code are default, user can change it as wish.
 
-   3. >forWeb_SEM_clay_analysis.py are used to load the created model, and used it to predict the features of new images. All of the images should be saved in one folder, code will run through each of the image and save all of the results in new folder individually.
+   3. _forWeb_SEM_clay_analysis.py_ are used to load the created model, and used it to predict the features of new images. All of the images should be saved in one folder, code will run through each of the image and save all of the results in new folder individually.
 
 
 ### Hardware used: 

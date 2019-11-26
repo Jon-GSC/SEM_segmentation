@@ -11,7 +11,7 @@ Scanning Electron Microscope (SEM) image segmentation.
 
 ### Dataset: 
 
-* The original image is out allowed size limit. The loaded images are used for demonstration purpose, the default image size is 256x256. During the trainint, the images in train and mask folder are split into training and validation groups. The file structure is:
+* The original image is out allowed size limit. The loaded images are used for demonstration purpose, the default image size is 256x256. During the training, the images in train and mask folder are split into training and validation groups. The file structure is:
 
 >       img_path
 >       |---train_image

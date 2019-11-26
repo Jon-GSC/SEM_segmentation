@@ -1,6 +1,6 @@
 # SEM images segmentation with Tensorflow
 
-*Scanning Electron Microscope (SEM) image segmentation.
+Scanning Electron Microscope (SEM) image segmentation.
 * The aim of this SEM image segmentation study is to identify and analyse geological source rock objects using deep learning.    
 
 

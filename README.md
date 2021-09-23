@@ -47,3 +47,6 @@ Scanning Electron Microscope (SEM) image segmentation.
 * SEM image segmentation used open source codes and library from github, google, kaggle, csdn blog.
 
 
+
+![Valid_UNet_888](https://user-images.githubusercontent.com/39324742/134574385-97bdcab8-d188-4675-8fc5-d42bddc5d337.png)
+

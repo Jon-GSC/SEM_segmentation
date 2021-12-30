@@ -39,7 +39,7 @@ Scanning Electron Microscope (SEM) image segmentation.
 
 ### Contact: 
 
-* jon.liu@canada.ca
+* jon.liu@nrcan-rncan.gc.ca
 
 
 ### Acknowledgments

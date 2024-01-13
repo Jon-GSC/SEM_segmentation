@@ -57,6 +57,5 @@ The Canada wordmark and related graphics associated with this distribution are p
 ### Citation:
 
 * Chen, Z., Liu, X., Jijin, Y., Little, E. & Zhou, Y. 2020, "Deep learning-based method for SEM image segmentation in mineral characterization, an example from Duvernay Shale samples in Western Canada Sedimentary Basin", Computers & geosciences, vol. 138, pp. 104450.
-
 ![Valid_UNet_888](https://user-images.githubusercontent.com/39324742/134574385-97bdcab8-d188-4675-8fc5-d42bddc5d337.png)
 
